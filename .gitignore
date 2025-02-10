@@ -1,0 +1,23 @@
+# Ignora arquivos de bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignora arquivos de ambiente virtual
+venv/
+env/
+
+# Ignora configurações do Visual Studio Code
+.vscode/
+
+# Ignora arquivos de log
+*.log
+
+# Ignora pastas de build e distribuições (caso sejam geradas)
+build/
+dist/
+
+# Ignora arquivos temporários ou de backup
+*.tmp
+*.bak
+*.swp
