@@ -1,4 +1,4 @@
-# PE Analyzer
+# PE Analyzer 👾
 
 Projeto para análise estática de arquivos executáveis do Windows (PE Files) utilizando a biblioteca **pefile**.
 
@@ -13,14 +13,17 @@ Projeto para análise estática de arquivos executáveis do Windows (PE Files) u
 - Geração de relatório final com pontos de atenção.
 
 ## Estrutura do Projeto
-pe_analyzer/ 
+
+```bash
+pe_analyzer/
 ├── README.md
 ├── requirements.txt
 ├── setup.py
-    ├── pe_analyzer/
-    │ ├── init.py 
-    │ ├── analyzer.py 
-    │ └── main.py 
+└── pe_analyzer/
+    ├── __init__.py
+    ├── analyzer.py
+    └── main.py
+```
 
 ## Instalação
 
