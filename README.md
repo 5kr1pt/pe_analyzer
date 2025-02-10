@@ -1,4 +1,4 @@
-# PE Analyzer 👾
+# PE Analyzer v1.0 👾
 
 Projeto para análise estática de arquivos executáveis do Windows (PE Files) utilizando a biblioteca **pefile**.
 
